@@ -1,7 +1,7 @@
 # Job Market Analytics Dashboard — Power BI
 
 <a href="https://lukeb.co/powerbi-project1" target="_blank">
-  <img src="Resources/images/Dashboard_Overview.gif" alt="Job Market Analytics Dashboard GIF">
+  <img src="Resources/images/Data_Jobs_Dashboard.gif" alt="Job Market Analytics Dashboard GIF">
 </a>
 
 
